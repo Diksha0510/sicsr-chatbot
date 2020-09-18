@@ -1,14 +1,14 @@
 # **SICSR Chatbot**
 
 ### **Description**
-It is a chatbot made using Rasa (python library), using ML to allow users to interact with chatbot to get details about the college.
+It is a chatbot made using Rasa (python library which eases the process of creating a chatbot), to allow users to interact with chatbot to get details about the college.
 
 ### **Technologies In Use**
 * Python
 * Rasa - Python Library
 <!-- To add more technologies use the same format! -->
 
-**Number of member/s required:** 2
+**Number of member/s required:** 0
 
 **Start Date:**  13-07-2020
   
